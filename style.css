@@ -28,7 +28,7 @@ body {
   animation-name: even-flash;
   animation-duration: 1s;
   animation-iteration-count: infinite;
-  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
 }
 
 #wire li:nth-child(odd) {
